@@ -1,0 +1,2 @@
+C:\Users\crist\Source\Repos\GaussEliminationMethod\Debug\GaussEliminationMethod.exe
+C:\Users\crist\Source\Repos\GaussEliminationMethod\Debug\GaussEliminationMethod.pdb
